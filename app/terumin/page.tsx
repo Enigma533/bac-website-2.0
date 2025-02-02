@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Terumin",
+  title: "helloo",
   description: "Namma Bengaluru Techie and Bengaluru Anime Club (BAC) Mascot",
 };
 
